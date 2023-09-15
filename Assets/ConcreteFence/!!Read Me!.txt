@@ -1,0 +1,13 @@
+Modular concrete fence panels by Andrey P. (http://pnn32.deviantart.com)
+
+* Concrete industrial fence panels set (free low-poly 3D models) in Wavefront OBJ format (obj+mtl). 
+* ZIP archive contains 12 low-poly models of concrete panels with various sizes and visual patters,
+  carefully modeled from scratch in Blender (using official reference sheets) and UV mapped. 
+* Separate materials for front, sides and back. Measurement unit in OBJ file is meters.
+* You are free to use or modify this model as you see fit for use in your own renders, 
+  and it's free to use for both commercial and non-commercial renders. 
+  You may not redistribute or resell this object, or any derivative of this object, 
+  by itself or as part of another package. 
+* Link to this page is highly appreciated, but not required.
+
+http://pnn32.deviantart.com

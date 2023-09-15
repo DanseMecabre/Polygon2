@@ -1,0 +1,20 @@
+# Blender MTL File: 'ConcreteFence.blend'
+# Material Count: 2
+
+newmtl Concrete
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.431667 0.431667 0.431667
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Filler
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.192000 0.192000 0.192000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
